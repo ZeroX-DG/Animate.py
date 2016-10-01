@@ -9,14 +9,14 @@ This module use for python 2.x.<br />
 import animate
 ```
 3.Then use one of these effects:
-  *`Typing`
-  *`Bounce`
-  *`Frame`
-  *`CharRun`
-  *`slideInRight`
-  *`slideInLeft`
-  *`slideInBottom`
-  *`slideInTop`
+..*`Typing`
+..*`Bounce`
+..*`Frame`
+..*`CharRun`
+..*`slideInRight`
+..*`slideInLeft`
+..*`slideInBottom`
+..*`slideInTop`
 
 
 Example:
