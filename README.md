@@ -23,9 +23,9 @@ Use one of these effects<br />
 
 Example:
 
-mywork/
-  myfile.py
-  animate.py
+mywork/ <br>
+  myfile.py<br>
+  animate.py<br>
 
 myfile content:
 
