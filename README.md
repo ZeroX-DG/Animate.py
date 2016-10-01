@@ -2,21 +2,21 @@
 *Just a python animations file*
 
 ## Installation
-This module use for python 2.x
-1.Just download animate.py from github and add the file to the same dir of your code
+This module use for python 2.x.
+1.Just download animate.py from github and add the file to the same dir of your code.
 2.Import animate.py using this code: 
 ```
 import animate
 ```
 3.Then use one of these effects:
-*Typing
-*Bounce
-*Frame
-*CharRun
-*slideInRight
-*slideInLeft
-*slideInBottom
-*slideInTop
+*`Typing`
+*`Bounce`
+*`Frame`
+*`CharRun`
+*`slideInRight`
+*`slideInLeft`
+*`slideInBottom`
+*`slideInTop`
 
 
 Example:
