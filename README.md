@@ -3,11 +3,12 @@
 
 ## Installation
 This module use for python 2.x.<br />
-1. Just download animate.py from github and add the file to the same dir of your code.
+1. Just download animate.py from github and add the file to the same dir of your code.<br />
 2. Import animate.py using this code: 
 ```
 import animate
 ```
+<br />
 3. Then use one of these effects
 ..*`Typing`
 ..*`Bounce`
