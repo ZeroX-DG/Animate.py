@@ -57,7 +57,6 @@ def Typing(text,**kwargs):
 		sys.stdout.write(text[i]);
 		time.sleep(t);
 
-Typing("abv",duration=5)
 #[2]: Bounce text (optional power)
 def Bounce(text,**kwargs):
 	power = 5; #default bounce power is 5
