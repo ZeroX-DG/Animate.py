@@ -9,14 +9,17 @@ This module use for python 2.x.<br />
 import animate
 ```
 <br />
-3. Then use one of these effects
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+##Basic Usage
+Use one of these effects<br />
 
+  -Typing<br />
+  -Bounce<br />
+  -Frame<br />
+  -CharRun<br />
+  -slideInRight<br />
+  -slideInLeft<br />
+  -slideInTop<br />
+  -slideInBottom<br />
 
 Example:
 
@@ -32,4 +35,15 @@ import animate
 animate.Typing("abc")
 ```
 
-
+##Usage
+Each effect duration can be modify by using this parameter:
+```
+duration=sec
+```
+Default duration will equal to 1 sec <br />
+And you can change SlideIn effects distance which is the point in the console that the slideIn efftect will stop by using the parameter
+```
+distance=number
+```
+last but not least: the CharRun effect<br />
+You can change the distance of this effect using distance parameter and remember the distance must greater than the text length ! Why ? try it, you will know why ;)
