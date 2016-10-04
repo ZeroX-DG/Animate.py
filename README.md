@@ -1,4 +1,4 @@
-# Animate.py [![Version](https://img.shields.io/badge/current%20version-1-red.svg)](https://github.com/ZeroX-DG/Animate.py/tree/master/src/ver_1)
+# Animate.py [![Version](https://img.shields.io/badge/latest%20version-2-green.svg)](https://github.com/ZeroX-DG/Animate.py/tree/master/src/) [![PYversion](https://img.shields.io/badge/python-2.x-red.svg)](https://www.python.org/downloads/) 
 *Just a python animations file*
 
 ## Installation
@@ -47,3 +47,6 @@ distance=number
 ```
 last but not least: the CharRun effect<br />
 You can change the distance of this effect using distance parameter and remember the distance must greater than the text length ! Why ? try it, you will know why ;)
+
+##Contact:
+Facebook: https://www.facebook.com/profile.php?id=100010901431527
