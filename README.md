@@ -24,8 +24,8 @@ Use one of these effects<br />
 Example:
 
 mywork/ <br>
-  &nbsp;&nbsp;myfile.py<br>
-  &nbsp;&nbsp;animate.py<br>
+&nbsp;&nbsp;&nbsp;|-&nbsp;&nbsp;myfile.py<br>
+&nbsp;&nbsp;&nbsp;|-&nbsp;&nbsp;animate.py<br>
 
 myfile content:
 
