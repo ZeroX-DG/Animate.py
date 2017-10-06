@@ -8,9 +8,9 @@ This module use for python 2.x.<br />
 ```
 import animate
 ```
-<br />
+
 ## Basic Usage
-Use one of these effects<br />
+Use one of these effects
 - Typing
 - Bounce
 - Frame
