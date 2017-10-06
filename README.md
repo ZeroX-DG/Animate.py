@@ -9,17 +9,16 @@ This module use for python 2.x.<br />
 import animate
 ```
 <br />
-##Basic Usage
+## Basic Usage
 Use one of these effects<br />
-
-  - Typing
-  - Bounce
-  - Frame
-  - CharRun
-  - slideInRight
-  - slideInLeft
-  - slideInTop
-  - slideInBottom
+- Typing
+- Bounce
+- Frame
+- CharRun
+- slideInRight
+- slideInLeft
+- slideInTop
+- slideInBottom
 
 Example:
 
