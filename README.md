@@ -34,7 +34,7 @@ import animate
 animate.Typing("abc")
 ```
 
-##Usage
+## Usage
 Each effect duration can be modify by using this parameter:
 ```
 duration=sec
@@ -47,5 +47,5 @@ distance=number
 last but not least: the CharRun effect<br />
 You can change the distance of this effect using distance parameter and remember the distance must greater than the text length ! Why ? try it, you will know why ;)
 
-##Contact:
+## Contact:
 Facebook: https://www.facebook.com/profile.php?id=100010901431527
