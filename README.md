@@ -12,14 +12,14 @@ import animate
 ##Basic Usage
 Use one of these effects<br />
 
-  -Typing<br />
-  -Bounce<br />
-  -Frame<br />
-  -CharRun<br />
-  -slideInRight<br />
-  -slideInLeft<br />
-  -slideInTop<br />
-  -slideInBottom<br />
+  - Typing
+  - Bounce
+  - Frame
+  - CharRun
+  - slideInRight
+  - slideInLeft
+  - slideInTop
+  - slideInBottom
 
 Example:
 
